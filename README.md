@@ -1,2 +1,2 @@
 # Projects
-Repositry with my ready projects.
+Hello to everybody. I will publish here my DevOps projects.
